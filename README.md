@@ -7,10 +7,10 @@ The director of a global superstore is facing significant challenges as the sale
 
 **Task Performed**: Data cleaning, Data processing, Data analysis, Data visualization, Created DAX measures, Forecasting technique and used visuals such as area charts, donut charts, shape maps, bar charts, line charts, tables, cards, and slicers, AI-powered visuals like smart narratives for data visualization.
 
-**Tools used**: Power BI Desktop and Excel
+**Tools used**: Power BI Desktop and Microsoft Excel
 
 # Description:
-1. **Dashboard Creation**: Identify key performance indicators (KPIs) and design an intuitive, visually appealing dashboard. Incorporate interactive visualizations and filtering options to allow users to explore data at different levels of granularity.
-2. **Data Analysis**: Provide valuable insights to business entities by visualizing the effectiveness of sales strategies through charts and visual representations.
+1. **Dashboard Creation**: Identify key performance indicators (KPIs) and design an intuitive, visually appealing dashboard. Incorporate interactive visualizations and filtering options.
+2. **Data Analysis**: Provide valuable insights by visualizing the effectiveness of sales strategies through charts and visual representations.
 3. **Sales Forecasting**: Utilize historical data and time series techniques to generate sales forecasts for the next 14 days.
 4. **Insights**: The ultimate goal is to share actionable insights that drive strategic decision-making, supporting supermarket growth, efficiency, and customer satisfaction.
