@@ -1,4 +1,4 @@
-# Retail Sales PowerBI Dashboard
+# Retail Sales Power BI Dashboard
 
 Power BI dashboard to analyze and forecast Retail Sales data through a systematic approach encompassing data cleaning, data processing, data analysis, data visualization and forecasting techniques. Incorporating an array of visuals such as area charts, donut charts, shape maps, clustered bar charts, stacked bar charts, line charts, tables, cards, and slicers, trends and patterns within the dataset were effectively uncovered. Furthermore the advanced AI-powered visuals like smart narratives were used to seamlessly generate a comprehensive report summary. Additionally, a record of the 14-day sales forecast was recorded in an excel sheet. 
 
